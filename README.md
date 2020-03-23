@@ -1,1 +1,25 @@
-eslint-config
+# Eslint default by Way2Web
+These are my settings for ESLint and Prettier.
+
+
+Here's an example usage:
+
+```json
+{
+  "extends": [
+    "@way2web/eslint-config"
+  ],
+  "rules": {
+    "no-console": 2,
+    "prettier/prettier": [
+      "error",
+      {
+        "trailingComma": "es5",
+        "singleQuote": true,
+        "printWidth": 120,
+        "tabWidth": 8,
+      }
+    ]
+  }
+}
+```
