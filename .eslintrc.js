@@ -25,6 +25,7 @@ module.exports = {
         expect: false
     },
     rules: {
+        "no-new": "warn",
         indent: ['error', 4, {
             ignoredNodes: ['TemplateLiteral']
         }],
@@ -87,7 +88,7 @@ module.exports = {
             'error',
             {
                 code: 120,
-                comments: 80,
+                comments: 120,
                 tabWidth: 4
             }
         ],
