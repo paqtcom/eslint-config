@@ -23,3 +23,8 @@ Here's an example usage:
   }
 }
 ```
+
+## Installation
+```
+yarn add @way2web/eslint-config @vue/cli-plugin-eslint babel-eslint eslint eslint-config-airbnb-base eslint-config-prettier eslint-plugin-html eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-vue prettier --dev
+```
