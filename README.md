@@ -1,9 +1,7 @@
-# Eslint default by Way2Web
-These are my settings for ESLint and Prettier.
+# Way2Web ESLint Config
+These are Way2Web's default settings for ESLint and Prettier.
 
-
-Here's an example usage:
-
+## Example
 ```json
 {
   "extends": [
