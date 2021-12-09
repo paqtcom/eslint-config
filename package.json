@@ -1,6 +1,6 @@
 {
     "name": "@way2web/eslint-config",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "description": "ESLint and Prettier Config from Way2Web",
     "keywords": [
         "javascript",
@@ -21,7 +21,6 @@
     },
     "license": "MIT",
     "peerDependencies": {
-        "@vue/cli-plugin-eslint": "*",
         "babel-eslint": "*",
         "eslint": "*",
         "eslint-config-airbnb-base": "*",
@@ -36,7 +35,6 @@
         "prettier": "*"
     },
     "devDependencies": {
-        "@vue/cli-plugin-eslint": "^4.4.6",
         "babel-eslint": "^10.1.0",
         "eslint": "^7.3.1",
         "eslint-config-airbnb-base": "^14.2.0",
