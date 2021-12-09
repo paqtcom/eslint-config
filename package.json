@@ -1,6 +1,6 @@
 {
     "name": "@way2web/eslint-config",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "ESLint and Prettier Config from Way2Web",
     "keywords": [
         "javascript",
@@ -16,24 +16,24 @@
         "url": "https://github.com/way2web/eslint-config"
     },
     "author": {
-        "name": "Pieter Wigboldus",
+        "name": "Way2Web",
         "url": "https://way2web.nl/"
     },
     "license": "MIT",
     "peerDependencies": {
-        "@vue/cli-plugin-eslint": "^4.2.3",
-        "babel-eslint": "^10.1.0",
-        "eslint": "^7.3.1",
-        "eslint-config-airbnb-base": "^14.1.0",
-        "eslint-config-prettier": "^6.10.0",
-        "eslint-plugin-html": "^6.0.0",
-        "eslint-plugin-import": "^2.18.0",
-        "eslint-plugin-jsx-a11y": "^6.2.3",
-        "eslint-plugin-prettier": "^3.0.1",
-        "eslint-plugin-react": "^7.19.0",
-        "eslint-plugin-react-hooks": "^4.0.5",
-        "eslint-plugin-vue": "^6.2.2",
-        "prettier": "^2.0.5"
+        "@vue/cli-plugin-eslint": "*",
+        "babel-eslint": "*",
+        "eslint": "*",
+        "eslint-config-airbnb-base": "*",
+        "eslint-config-prettier": "*",
+        "eslint-plugin-html": "*",
+        "eslint-plugin-import": "*",
+        "eslint-plugin-jsx-a11y": "*",
+        "eslint-plugin-prettier": "*",
+        "eslint-plugin-react": "*",
+        "eslint-plugin-react-hooks": "*",
+        "eslint-plugin-vue": "*",
+        "prettier": "*"
     },
     "devDependencies": {
         "@vue/cli-plugin-eslint": "^4.4.6",
