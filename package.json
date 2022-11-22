@@ -1,7 +1,7 @@
 {
-    "name": "@way2web/eslint-config",
+    "name": "@paqtcom/eslint-config",
     "version": "0.3.1",
-    "description": "ESLint and Prettier Config from Way2Web",
+    "description": "ESLint and Prettier Config from PAQT",
     "keywords": [
         "javascript",
         "ecmascript",
@@ -13,11 +13,11 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/way2web/eslint-config"
+        "url": "https://github.com/paqtcom/eslint-config"
     },
     "author": {
-        "name": "Way2Web",
-        "url": "https://way2web.nl/"
+        "name": "PAQT.com",
+        "url": "https://paqt.com/"
     },
     "license": "MIT",
     "peerDependencies": {
@@ -36,17 +36,17 @@
     },
     "devDependencies": {
         "babel-eslint": "^10.1.0",
-        "eslint": "^7.3.1",
-        "eslint-config-airbnb-base": "^14.2.0",
-        "eslint-config-prettier": "^6.11.0",
-        "eslint-plugin-html": "^6.0.2",
-        "eslint-plugin-import": "^2.22.0",
-        "eslint-plugin-jsx-a11y": "^6.3.1",
-        "eslint-plugin-prettier": "^3.1.4",
-        "eslint-plugin-react": "^7.20.3",
-        "eslint-plugin-react-hooks": "^4.0.5",
-        "eslint-plugin-vue": "^6.2.2",
-        "prettier": "^2.0.5"
+        "eslint": "^8.28.0",
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-config-prettier": "^8.5.0",
+        "eslint-plugin-html": "^7.1.0",
+        "eslint-plugin-import": "^2.26.0",
+        "eslint-plugin-jsx-a11y": "^6.6.1",
+        "eslint-plugin-prettier": "^4.2.1",
+        "eslint-plugin-react": "^7.31.11",
+        "eslint-plugin-react-hooks": "^4.6.0",
+        "eslint-plugin-vue": "^9.7.0",
+        "prettier": "^2.7.1"
     },
     "scripts": {
         "lint": "eslint .",
